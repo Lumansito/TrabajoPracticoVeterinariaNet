@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\matia\\Documents\\UTN-matias\\3er a\u00F1o\\Tecnolog\u00EDas de Desarrollo de Software IDE\\TP\\TrabajoPracticoVeterinariaNet\\Veterinaria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E465CC77-6627-43F9-A2E5-F3062CDEBB28}|Models\\Models.csproj|c:\\users\\matia\\documents\\utn-matias\\3er a\u00F1o\\tecnolog\u00EDas de desarrollo de software ide\\tp\\trabajopracticoveterinarianet\\veterinaria\\models\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E465CC77-6627-43F9-A2E5-F3062CDEBB28}|Models\\Models.csproj|solutionrelative:models\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E465CC77-6627-43F9-A2E5-F3062CDEBB28}|Models\\Models.csproj|c:\\users\\matia\\documents\\utn-matias\\3er a\u00F1o\\tecnolog\u00EDas de desarrollo de software ide\\tp\\trabajopracticoveterinarianet\\veterinaria\\models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E465CC77-6627-43F9-A2E5-F3062CDEBB28}|Models\\Models.csproj|solutionrelative:models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{E465CC77-6627-43F9-A2E5-F3062CDEBB28}|Models\\Models.csproj|c:\\users\\matia\\documents\\utn-matias\\3er a\u00F1o\\tecnolog\u00EDas de desarrollo de software ide\\tp\\trabajopracticoveterinarianet\\veterinaria\\models\\data\\veterinariacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E465CC77-6627-43F9-A2E5-F3062CDEBB28}|Models\\Models.csproj|solutionrelative:models\\data\\veterinariacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E465CC77-6627-43F9-A2E5-F3062CDEBB28}|Models\\Models.csproj|c:\\users\\matia\\documents\\utn-matias\\3er a\u00F1o\\tecnolog\u00EDas de desarrollo de software ide\\tp\\trabajopracticoveterinarianet\\veterinaria\\models\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E465CC77-6627-43F9-A2E5-F3062CDEBB28}|Models\\Models.csproj|solutionrelative:models\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 240,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,11 +34,19 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\matia\\Documents\\UTN-matias\\3er a\u00F1o\\Tecnolog\u00EDas de Desarrollo de Software IDE\\TP\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Models\\appsettings.json",
               "RelativeDocumentMoniker": "Models\\appsettings.json",
@@ -51,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "VeterinariaContext.cs",
               "DocumentMoniker": "C:\\Users\\matia\\Documents\\UTN-matias\\3er a\u00F1o\\Tecnolog\u00EDas de Desarrollo de Software IDE\\TP\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Models\\Data\\VeterinariaContext.cs",
               "RelativeDocumentMoniker": "Models\\Data\\VeterinariaContext.cs",
@@ -64,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Models.csproj",
               "DocumentMoniker": "C:\\Users\\matia\\Documents\\UTN-matias\\3er a\u00F1o\\Tecnolog\u00EDas de Desarrollo de Software IDE\\TP\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Models\\Models.csproj",
               "RelativeDocumentMoniker": "Models\\Models.csproj",
@@ -77,13 +85,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\matia\\Documents\\UTN-matias\\3er a\u00F1o\\Tecnolog\u00EDas de Desarrollo de Software IDE\\TP\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Models\\Class1.cs",
               "RelativeDocumentMoniker": "Models\\Class1.cs",
               "ToolTip": "C:\\Users\\matia\\Documents\\UTN-matias\\3er a\u00F1o\\Tecnolog\u00EDas de Desarrollo de Software IDE\\TP\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Models\\Class1.cs",
               "RelativeToolTip": "Models\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T12:24:58.91Z",
               "EditorCaption": ""

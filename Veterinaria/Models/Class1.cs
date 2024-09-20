@@ -6,8 +6,6 @@ namespace Models
 {
     public class Class1
     {
-        
-     
         // Método que realiza la operación con VeterinariaContext
         public void DoSomething()
         {

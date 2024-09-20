@@ -1,21 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\matia\\Documents\\UTN-matias\\3er a\u00F1o\\Tecnolog\u00EDas de Desarrollo de Software IDE\\TP\\TrabajoPracticoVeterinariaNet\\Veterinaria\\",
+  "WorkspaceRootPath": "C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E465CC77-6627-43F9-A2E5-F3062CDEBB28}|Models\\Models.csproj|c:\\users\\matia\\documents\\utn-matias\\3er a\u00F1o\\tecnolog\u00EDas de desarrollo de software ide\\tp\\trabajopracticoveterinarianet\\veterinaria\\models\\data\\veterinariacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E465CC77-6627-43F9-A2E5-F3062CDEBB28}|Models\\Models.csproj|solutionrelative:models\\data\\veterinariacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{216B3DA4-7BCF-4AC1-90E2-2EB2AA176968}|Negocio\\Negocio.csproj|c:\\users\\nicoe\\documents\\proyectos\\.net\\trabajopracticoveterinarianet\\veterinaria\\negocio\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216B3DA4-7BCF-4AC1-90E2-2EB2AA176968}|Negocio\\Negocio.csproj|solutionrelative:negocio\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E465CC77-6627-43F9-A2E5-F3062CDEBB28}|Models\\Models.csproj|c:\\users\\matia\\documents\\utn-matias\\3er a\u00F1o\\tecnolog\u00EDas de desarrollo de software ide\\tp\\trabajopracticoveterinarianet\\veterinaria\\models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5DC88C21-D7CA-4BA8-A459-6F49ECCD4157}|Vista-escritorio\\Vista-escritorio.csproj|C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\vista-escritorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DC88C21-D7CA-4BA8-A459-6F49ECCD4157}|Vista-escritorio\\Vista-escritorio.csproj|solutionrelative:vista-escritorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{216B3DA4-7BCF-4AC1-90E2-2EB2AA176968}|Negocio\\Negocio.csproj|C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\negocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{216B3DA4-7BCF-4AC1-90E2-2EB2AA176968}|Negocio\\Negocio.csproj|solutionrelative:negocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4F5E46-8463-4CA2-A567-00A1D996298A}|Servicios\\Servicios.csproj|C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A4F5E46-8463-4CA2-A567-00A1D996298A}|Servicios\\Servicios.csproj|solutionrelative:servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A4F5E46-8463-4CA2-A567-00A1D996298A}|Servicios\\Servicios.csproj|C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\servicios\\servicios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A4F5E46-8463-4CA2-A567-00A1D996298A}|Servicios\\Servicios.csproj|solutionrelative:servicios\\servicios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E465CC77-6627-43F9-A2E5-F3062CDEBB28}|Models\\Models.csproj|C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E465CC77-6627-43F9-A2E5-F3062CDEBB28}|Models\\Models.csproj|solutionrelative:models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E465CC77-6627-43F9-A2E5-F3062CDEBB28}|Models\\Models.csproj|c:\\users\\matia\\documents\\utn-matias\\3er a\u00F1o\\tecnolog\u00EDas de desarrollo de software ide\\tp\\trabajopracticoveterinarianet\\veterinaria\\models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{E465CC77-6627-43F9-A2E5-F3062CDEBB28}|Models\\Models.csproj|C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\models\\data\\veterinariacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E465CC77-6627-43F9-A2E5-F3062CDEBB28}|Models\\Models.csproj|solutionrelative:models\\data\\veterinariacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E465CC77-6627-43F9-A2E5-F3062CDEBB28}|Models\\Models.csproj|C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E465CC77-6627-43F9-A2E5-F3062CDEBB28}|Models\\Models.csproj|solutionrelative:models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E465CC77-6627-43F9-A2E5-F3062CDEBB28}|Models\\Models.csproj|c:\\users\\matia\\documents\\utn-matias\\3er a\u00F1o\\tecnolog\u00EDas de desarrollo de software ide\\tp\\trabajopracticoveterinarianet\\veterinaria\\models\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{E465CC77-6627-43F9-A2E5-F3062CDEBB28}|Models\\Models.csproj|C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\models\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E465CC77-6627-43F9-A2E5-F3062CDEBB28}|Models\\Models.csproj|solutionrelative:models\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -30,6 +50,10 @@
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
@@ -38,11 +62,71 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Negocio\\Conexion.cs",
+              "RelativeDocumentMoniker": "Negocio\\Conexion.cs",
+              "ToolTip": "C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Negocio\\Conexion.cs",
+              "RelativeToolTip": "Negocio\\Conexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:45:01.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Vista-escritorio\\Form1.cs",
+              "RelativeDocumentMoniker": "Vista-escritorio\\Form1.cs",
+              "ToolTip": "C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Vista-escritorio\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista-escritorio\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:35:52.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Negocio\\Class1.cs",
+              "RelativeDocumentMoniker": "Negocio\\Class1.cs",
+              "ToolTip": "C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Negocio\\Class1.cs",
+              "RelativeToolTip": "Negocio\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:35:05.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Servicios",
+              "DocumentMoniker": "C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Servicios\\Servicios.csproj",
+              "RelativeDocumentMoniker": "Servicios\\Servicios.csproj",
+              "ToolTip": "C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Servicios\\Servicios.csproj",
+              "RelativeToolTip": "Servicios\\Servicios.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-20T18:24:55.264Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Servicios\\Program.cs",
+              "RelativeDocumentMoniker": "Servicios\\Program.cs",
+              "ToolTip": "C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Servicios\\Program.cs",
+              "RelativeToolTip": "Servicios\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:25:50.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\matia\\Documents\\UTN-matias\\3er a\u00F1o\\Tecnolog\u00EDas de Desarrollo de Software IDE\\TP\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Models\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Models\\appsettings.json",
               "RelativeDocumentMoniker": "Models\\appsettings.json",
-              "ToolTip": "C:\\Users\\matia\\Documents\\UTN-matias\\3er a\u00F1o\\Tecnolog\u00EDas de Desarrollo de Software IDE\\TP\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Models\\appsettings.json",
+              "ToolTip": "C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Models\\appsettings.json",
               "RelativeToolTip": "Models\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -50,24 +134,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "VeterinariaContext.cs",
-              "DocumentMoniker": "C:\\Users\\matia\\Documents\\UTN-matias\\3er a\u00F1o\\Tecnolog\u00EDas de Desarrollo de Software IDE\\TP\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Models\\Data\\VeterinariaContext.cs",
+              "DocumentMoniker": "C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Models\\Data\\VeterinariaContext.cs",
               "RelativeDocumentMoniker": "Models\\Data\\VeterinariaContext.cs",
-              "ToolTip": "C:\\Users\\matia\\Documents\\UTN-matias\\3er a\u00F1o\\Tecnolog\u00EDas de Desarrollo de Software IDE\\TP\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Models\\Data\\VeterinariaContext.cs",
+              "ToolTip": "C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Models\\Data\\VeterinariaContext.cs",
               "RelativeToolTip": "Models\\Data\\VeterinariaContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwvyUAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T13:13:09.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T13:13:09.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Models.csproj",
-              "DocumentMoniker": "C:\\Users\\matia\\Documents\\UTN-matias\\3er a\u00F1o\\Tecnolog\u00EDas de Desarrollo de Software IDE\\TP\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Models\\Models.csproj",
+              "DocumentMoniker": "C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Models\\Models.csproj",
               "RelativeDocumentMoniker": "Models\\Models.csproj",
-              "ToolTip": "C:\\Users\\matia\\Documents\\UTN-matias\\3er a\u00F1o\\Tecnolog\u00EDas de Desarrollo de Software IDE\\TP\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Models\\Models.csproj",
+              "ToolTip": "C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Models\\Models.csproj",
               "RelativeToolTip": "Models\\Models.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -75,13 +158,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\matia\\Documents\\UTN-matias\\3er a\u00F1o\\Tecnolog\u00EDas de Desarrollo de Software IDE\\TP\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Models\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Models\\Class1.cs",
               "RelativeDocumentMoniker": "Models\\Class1.cs",
-              "ToolTip": "C:\\Users\\matia\\Documents\\UTN-matias\\3er a\u00F1o\\Tecnolog\u00EDas de Desarrollo de Software IDE\\TP\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Models\\Class1.cs",
+              "ToolTip": "C:\\Users\\nicoe\\Documents\\Proyectos\\.NET\\TrabajoPracticoVeterinariaNet\\Veterinaria\\Models\\Class1.cs",
               "RelativeToolTip": "Models\\Class1.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T12:24:58.91Z"
             }

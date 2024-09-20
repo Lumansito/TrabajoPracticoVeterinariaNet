@@ -1,0 +1,17 @@
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Vista-escritorio\bin\Debug\net8.0-windows\Vista-escritorio.exe
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Vista-escritorio\bin\Debug\net8.0-windows\Vista-escritorio.deps.json
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Vista-escritorio\bin\Debug\net8.0-windows\Vista-escritorio.runtimeconfig.json
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Vista-escritorio\bin\Debug\net8.0-windows\Vista-escritorio.dll
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Vista-escritorio\bin\Debug\net8.0-windows\Vista-escritorio.pdb
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Vista-escritorio\obj\Debug\net8.0-windows\Vista_escritorio.Form1.resources
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Vista-escritorio\obj\Debug\net8.0-windows\Vista-escritorio.csproj.GenerateResource.cache
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Vista-escritorio\obj\Debug\net8.0-windows\Vista-escritorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Vista-escritorio\obj\Debug\net8.0-windows\Vista-escritorio.AssemblyInfoInputs.cache
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Vista-escritorio\obj\Debug\net8.0-windows\Vista-escritorio.AssemblyInfo.cs
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Vista-escritorio\obj\Debug\net8.0-windows\Vista-escritorio.csproj.CoreCompileInputs.cache
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Vista-escritorio\obj\Debug\net8.0-windows\Vista-escritorio.sourcelink.json
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Vista-escritorio\obj\Debug\net8.0-windows\Vista-escritorio.dll
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Vista-escritorio\obj\Debug\net8.0-windows\refint\Vista-escritorio.dll
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Vista-escritorio\obj\Debug\net8.0-windows\Vista-escritorio.pdb
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Vista-escritorio\obj\Debug\net8.0-windows\Vista-escritorio.genruntimeconfig.cache
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Vista-escritorio\obj\Debug\net8.0-windows\ref\Vista-escritorio.dll

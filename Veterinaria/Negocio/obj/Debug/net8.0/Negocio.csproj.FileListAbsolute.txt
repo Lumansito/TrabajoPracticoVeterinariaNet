@@ -1,0 +1,12 @@
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Negocio\bin\Debug\net8.0\Negocio.deps.json
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Negocio\bin\Debug\net8.0\Negocio.dll
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Negocio\bin\Debug\net8.0\Negocio.pdb
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Negocio\obj\Debug\net8.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Negocio\obj\Debug\net8.0\Negocio.AssemblyInfo.cs
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Negocio\obj\Debug\net8.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Negocio\obj\Debug\net8.0\Negocio.sourcelink.json
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Negocio\obj\Debug\net8.0\Negocio.dll
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Negocio\obj\Debug\net8.0\refint\Negocio.dll
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Negocio\obj\Debug\net8.0\Negocio.pdb
+C:\Users\nicoe\Documents\Proyectos\.NET\TrabajoPracticoVeterinariaNet\Veterinaria\Negocio\obj\Debug\net8.0\ref\Negocio.dll
